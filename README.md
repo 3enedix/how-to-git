@@ -1,7 +1,5 @@
 # how-to-git
 
-*For the git-nerds: Forgive me. The following introduction is written for people who never worked with git and I sometimes use words that might not be entirely correct.*
-
 *This text contains funny git-words that are explained [here](https://github.com/CharliesWelt/how-to-git/new/main#some-basic-terms).*
 
 *Git is learning by doing. You can read as many tutorials as you want, in the end you will have to try it yourself. Set up a test-repository, **mess it up** completely and try to fix it afterwards to figure out what happens with all these commands/buttons, until you feel safe.*
